@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589221277464",
+    "project_id": "asaanmakaan-ce7ea",
+    "storage_bucket": "asaanmakaan-ce7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589221277464:android:f470959473535593c1f86d",
+        "android_client_info": {
+          "package_name": "com.example.asaanmakaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ64WjgoZzRVXhVkR5uneMqWTJcH1VIuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
